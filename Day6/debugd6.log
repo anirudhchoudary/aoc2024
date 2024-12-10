@@ -1,0 +1,94 @@
+Initial position of '^': (6, 4)
+Starting simulation from position (6, 4).
+Initial grid state:
+....#.....
+.........#
+..........
+..#.......
+.......#..
+..........
+.#..X.....
+........#.
+#.........
+......#...
+Number of roas and columns (10, 10).
+Current direction: UP
+Marking position (5, 4) as 'X'.
+Marking position (4, 4) as 'X'.
+Marking position (3, 4) as 'X'.
+Marking position (2, 4) as 'X'.
+Marking position (1, 4) as 'X'.
+Encountered obstacle or out of bounds while moving UP at (1, 4).
+Current direction: RIGHT
+Marking position (1, 5) as 'X'.
+Marking position (1, 6) as 'X'.
+Marking position (1, 7) as 'X'.
+Marking position (1, 8) as 'X'.
+Encountered obstacle or out of bounds while moving RIGHT at (1, 8).
+Current direction: DOWN
+Marking position (2, 8) as 'X'.
+Marking position (3, 8) as 'X'.
+Marking position (4, 8) as 'X'.
+Marking position (5, 8) as 'X'.
+Marking position (6, 8) as 'X'.
+Encountered obstacle while moving DOWN at (6, 8).
+Current direction: LEFT
+Marking position (6, 7) as 'X'.
+Marking position (6, 6) as 'X'.
+Marking position (6, 5) as 'X'.
+Marking position (6, 4) as 'X'.
+Marking position (6, 3) as 'X'.
+Marking position (6, 2) as 'X'.
+Encountered obstacle or out of bounds while moving LEFT at (6, 2).
+Current direction: UP
+Marking position (5, 2) as 'X'.
+Marking position (4, 2) as 'X'.
+Encountered obstacle or out of bounds while moving UP at (4, 2).
+Current direction: RIGHT
+Marking position (4, 3) as 'X'.
+Marking position (4, 4) as 'X'.
+Marking position (4, 5) as 'X'.
+Marking position (4, 6) as 'X'.
+Encountered obstacle or out of bounds while moving RIGHT at (4, 6).
+Current direction: DOWN
+Marking position (5, 6) as 'X'.
+Marking position (6, 6) as 'X'.
+Marking position (7, 6) as 'X'.
+Marking position (8, 6) as 'X'.
+Encountered obstacle while moving DOWN at (8, 6).
+Current direction: LEFT
+Marking position (8, 5) as 'X'.
+Marking position (8, 4) as 'X'.
+Marking position (8, 3) as 'X'.
+Marking position (8, 2) as 'X'.
+Marking position (8, 1) as 'X'.
+Encountered obstacle or out of bounds while moving LEFT at (8, 1).
+Current direction: UP
+Marking position (7, 1) as 'X'.
+Encountered obstacle or out of bounds while moving UP at (7, 1).
+Current direction: RIGHT
+Marking position (7, 2) as 'X'.
+Marking position (7, 3) as 'X'.
+Marking position (7, 4) as 'X'.
+Marking position (7, 5) as 'X'.
+Marking position (7, 6) as 'X'.
+Marking position (7, 7) as 'X'.
+Encountered obstacle or out of bounds while moving RIGHT at (7, 7).
+Current direction: DOWN
+Marking position (8, 7) as 'X'.
+Marking position (9, 7) as 'X'.
+Will be out of bounds while moving DOWN at (9, 7).
+Total 'X' count in the grid: 41
+
+Final Grid:
+....#.....
+....XXXXX#
+....X...X.
+..#.X...X.
+..XXXXX#X.
+..X.X.X.X.
+.#XXXXXXX.
+.XXXXXXX#.
+#XXXXXXX..
+......#X..
+Simulation complete. Final 'X' count: 41
