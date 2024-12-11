@@ -1,5 +1,8 @@
-import sys
+import sys,time
 from collections import defaultdict
+
+start=time.perf_counter()
+
 
 def process_number(num):
     num = num.lstrip("0") or "0"
@@ -46,3 +49,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     process_file(input_file, blinkNr)
+
+end = time.perf_counter()
+
+print(end - start)
